@@ -1,7 +1,7 @@
 ![Banner Image](/image/myPost.png)
 
-# Hi there!
-## Me llamo Lu y soy Front-end developer
+# Hi there! Soy Lu! :wave:
+### Front-end Developer :computer:
 
 Tengo pasión por la tecnología, por entender cómo funcionan las cosas que vemos a diario, y por sobre todo, por aprender a crearlas.
 
@@ -24,11 +24,11 @@ Tengo pasión por la tecnología, por entender cómo funcionan las cosas que vem
 
 
 ![Banner Image](/image/myPost.png)
-
 ## CONTACTO:
 
 * Linkedin: https://www.linkedin.com/in/lucilavkendziur/
 * E-mail: lukendziur@gmail.com
+![Banner Image](/image/myPost.png)
 
 
 
