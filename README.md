@@ -1,4 +1,4 @@
-![Banner Image](https://spark.adobe.com/post/ZF5KkDPzHwDJr/)
+![Banner Image](/image/myPost.png)
 
 # Hi there!
 ## Me llamo Lu y soy Front-end developer
@@ -23,7 +23,7 @@ Tengo pasión por la tecnología, por entender cómo funcionan las cosas que vem
 * React
 
 
-![Banner Image](https://spark.adobe.com/post/ZF5KkDPzHwDJr/)
+![Banner Image](/image/myPost.png)
 
 ## CONTACTO:
 
