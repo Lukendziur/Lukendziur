@@ -1,4 +1,4 @@
-![Banner Image](/image/myPost.png)
+![Banner Image](/image/newgradient.png)
 
 # Hi there! Soy Lu! :wave:
 ## Front-end Developer :computer:
@@ -26,14 +26,16 @@ Tengo pasión por la tecnología, por entender cómo funcionan las cosas que vem
 * Comunicación efectiva
 * Liderazgo 
 
-![Banner Image](/image/myPost.png)
+![Banner Image](/image/newgradient.png)
+
 
 ## CONTACTO:
 
 * Linkedin: https://www.linkedin.com/in/lucilavkendziur/
 * E-mail: lukendziur@gmail.com
 
-![Banner Image](/image/myPost.png)
+![Banner Image](/image/newgradient.png)
+
 
 
 
