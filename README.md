@@ -4,7 +4,7 @@
 ## Front-end Developer :computer: Full Stack Developer in process :books:
 
 Tengo pasión por la tecnología, por entender cómo funcionan las cosas que vemos a diario, y por sobre todo, por aprender a crearlas.
-
+![Banner Image](/image/newgradient.png)
 ### :zap: ¿Qué tecnologías manejo muy bien?
 * HTML5
 * CSS3
@@ -17,14 +17,9 @@ Tengo pasión por la tecnología, por entender cómo funcionan las cosas que vem
 ### :zap: ¿Qué tecnologías he visto y me encantaría profundizar?
 * Amazon Web Services
 * Docker
-
-### :zap: ¿Qué tecnologías me generan mucha curosidad y me gustaría poder aprenderlas?
-* Flutter, React Native (I'm curious about mobile development)
 * React
-
-### :zap: Habilidades blandas:
-* Comunicación efectiva
-* Liderazgo 
+* Wordpress con Divi
+* Flutter
 
 ![Banner Image](/image/newgradient.png)
 
