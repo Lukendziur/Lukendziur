@@ -3,12 +3,13 @@
 # Hi there! Soy Lu! :wave:
 ## Front-end Developer :computer: Full Stack Developer in process :books:
 
-Tengo pasión por la tecnología, por entender cómo funcionan las cosas que vemos a diario, y por sobre todo, por aprender a crearlas.
+### Tengo pasión por la tecnología, por entender cómo funcionan las cosas que vemos a diario, y por sobre todo, por aprender a crearlas.
+
 ![Banner Image](/image/small-banner.png)
-### :zap: Tecnologías
+### :zap: ¿En qué tecnologías me enfoco?
 * HTML5
 * CSS3
-* SASS
+* SASS        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukendziur&theme=buefy)
 * JavaScript
 * Node.js con Express
 ### :zap: ¿Qué tecnologías he visto y me encantaría profundizar?
@@ -18,7 +19,7 @@ Tengo pasión por la tecnología, por entender cómo funcionan las cosas que vem
 * Wordpress con Divi
 * Flutter
 
-![Banner Image](/image/newgradient.png)
+![Banner Image](/image/small-banner.png)
 
 
 ## CONTACTO:
@@ -28,7 +29,7 @@ Tengo pasión por la tecnología, por entender cómo funcionan las cosas que vem
 
 ![Banner Image](/image/small-banner.png)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Lukendziur.Lukendziur)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukendziur&theme=buefy)
 
