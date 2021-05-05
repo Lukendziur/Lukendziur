@@ -3,16 +3,18 @@
 # Hi there! Soy Lu! :wave:
 ## Front-end Developer :computer: Full Stack Developer in process :books:
 
-### Tengo pasión por la tecnología, por entender cómo funcionan las cosas que vemos a diario, y por sobre todo, por aprender a crearlas.
+### I like programming, but what I like most is knowing how to create things!
 
 ![Banner Image](/image/small-banner.png)
-### :zap: ¿En qué tecnologías me enfoco?
+### :zap: What I'm improving everyday?
 * HTML5
 * CSS3
-* SASS        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukendziur&theme=buefy)
+* SASS       
 * JavaScript
 * Node.js con Express
-### :zap: ¿Qué tecnologías he visto y me encantaría profundizar?
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukendziur&theme=buefy)
+### :zap: what would I like to learn someday?
 * Amazon Web Services
 * Docker
 * React
@@ -22,7 +24,7 @@
 ![Banner Image](/image/small-banner.png)
 
 
-## CONTACTO:
+## CONTACT:
 
 * Linkedin: https://www.linkedin.com/in/lucilavkendziur/
 * E-mail: lukendziur@gmail.com
@@ -30,8 +32,6 @@
 ![Banner Image](/image/small-banner.png)
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukendziur&theme=buefy)
 
 
 
