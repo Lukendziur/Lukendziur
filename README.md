@@ -1,4 +1,4 @@
-![Banner Image](/image/newgradient.png)
+![Banner Image](/image/bannerProfile.png)
 
 # Hi there! Soy Lu! :wave:
 ## Front-end Developer :computer: Full Stack Developer in process :books:
