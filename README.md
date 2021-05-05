@@ -14,7 +14,7 @@
 * Node.js con Express
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukendziur&theme=buefy)
-### :zap: what would I like to learn someday?
+### :zap: What would I like to learn someday?
 * Amazon Web Services
 * Docker
 * React
