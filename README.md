@@ -1,4 +1,4 @@
-![Banner Image](/image/bannerProfile.png)
+![Banner Image](/image/banner2.png)
 
 # Hi there! Soy Lu! :wave:
 ## Front-end Developer :computer: Full Stack Developer in process :books:
