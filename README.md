@@ -18,8 +18,6 @@
 * Amazon Web Services
 * Docker
 * React
-* Wordpress con Divi
-* Flutter
 
 ![Banner Image](/image/small-banner.png)
 
