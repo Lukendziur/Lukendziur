@@ -11,7 +11,12 @@
 * CSS3
 * SASS       
 * JavaScript
-* Node.js con Express
+* Node.js
+* Express
+* MySQL
+* Sequelize
+* APIs 
+
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukendziur&theme=buefy)
 ### :zap: What would I like to learn someday?
