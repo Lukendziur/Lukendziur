@@ -28,7 +28,7 @@
 
 
 ## CONTACT:
-
+* Portfolio: https://lucilakendziur.herokuapp.com/
 * Linkedin: https://www.linkedin.com/in/lucilavkendziur/
 * E-mail: lukendziur@gmail.com
 
