@@ -1,12 +1,12 @@
 ![Banner Image](/image/banner2.png)
 
 # Hi there! Soy Lu! :wave:
-## Front-end Developer :computer: Full Stack Developer in process :books:
+## Full Stack Developer :computer: :books:
 
 ### I like programming, but what I like most is knowing how to create things!
 
 ![Banner Image](/image/small-banner.png)
-### :zap: What I'm improving everyday?
+### :zap: My Stack:
 * HTML5
 * CSS3
 * SASS       
@@ -16,13 +16,8 @@
 * MySQL
 * Sequelize
 * APIs 
-
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukendziur&theme=buefy)
-### :zap: What would I like to learn someday?
-* Amazon Web Services
-* Docker
 * React
+
 
 ![Banner Image](/image/small-banner.png)
 
