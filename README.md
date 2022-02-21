@@ -17,6 +17,8 @@
 * Sequelize
 * APIs 
 * React
+* SuiteScript 2.0 and 2.1
+* Netsuite Integrations
 
 
 ![Banner Image](/image/small-banner.png)
