@@ -1,31 +1,25 @@
 ![Banner Image](/image/banner2.png)
 
-# Hi there! Soy Lu! :wave:
-## Full Stack Developer :computer: :books:
+# Hi there! I'm Lu! :wave:
+## Netsuite Developer :computer: :books:
 
 ### I like programming, but what I like most is knowing how to create things!
 
 ![Banner Image](/image/small-banner.png)
-### :zap: My Stack:
+### :zap: Since 2021 I've been working with:
 * HTML5
 * CSS3
-* SASS       
 * JavaScript
 * Node.js
-* Express
-* MySQL
-* Sequelize
 * APIs 
-* React
 * SuiteScript 2.0 and 2.1
 * Netsuite Integrations
-
 
 ![Banner Image](/image/small-banner.png)
 
 
 ## CONTACT:
-* Portfolio: https://lucilakendziur.herokuapp.com/
+* Portfolio: https://lucilakendziur.herokuapp.com/ 
 * Linkedin: https://www.linkedin.com/in/lucilavkendziur/
 * E-mail: lukendziur@gmail.com
 
