@@ -1,7 +1,7 @@
 ![Banner Image](/image/banner2.png)
 
 # Hi there! I'm Lu! :wave:
-## I'm Netsuite Developer :computer: :books:
+## I'm Frontend Developer :computer: :books:
 
 ### I like programming, but what I like most is knowing how to create things!
 
