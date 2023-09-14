@@ -1,4 +1,4 @@
-![Banner Image](/image/banner2.png)
+![Banner Image](/image/ezgif.com-video-to-gif.gif)
 
 # Hi there! I'm Lu! :wave:
 ## I'm Frontend Developer :computer: :books:
