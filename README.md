@@ -3,15 +3,17 @@
 # Hi there! I'm Lu! :wave:
 ## I'm Frontend Developer :computer: :books:
 
-### I like programming, but what I like most is knowing how to create things!
-
 ![Banner Image](/image/small-banner.png)
 ### :zap: Since 2021 I've been working with:
 * HTML5
-* CSS3
+* Styles: CSS3, Sass, Material UI, Bootstrap, Storybook (custom libraries)
 * JavaScript
+* Next.js
+* React (React-hook-forms, formik, react-query, react-router-dom, react-hooks)
+* TypeScript
 * Node.js
-* APIs 
+* API REST
+* Vite
 * SuiteScript 2.0 and 2.1
 * Netsuite Integrations
 
@@ -19,7 +21,7 @@
 
 
 ## CONTACT:
-* Portfolio: https://lucilakendziur.herokuapp.com/ 
+* Portfolio: https://lk-portfolio-lukendziur.vercel.app/
 * Linkedin: https://www.linkedin.com/in/lucilavkendziur/
 * E-mail: lukendziur@gmail.com
 
