@@ -1,4 +1,4 @@
-![Banner Image](/image/ezgif.com-video-to-gif.gif)
+![Banner Image](/image/lk-gif.gif)
 
 # Hi there! I'm Lu! :wave:
 ## I'm Frontend Developer :computer: :books:
@@ -9,13 +9,13 @@
 * Styles: CSS3, Sass, Material UI, Bootstrap, Storybook (custom libraries)
 * JavaScript
 * Next.js
-* React (React-hook-forms, formik, react-query, react-router-dom, react-hooks)
+* React (React-hook-forms, Formik, react-query, react-router-dom, react-hooks)
 * TypeScript
 * Node.js
 * API REST
 * Vite
 * SuiteScript 2.0 and 2.1
-* Netsuite Integrations
+* NetSuite Integrations
 
 ![Banner Image](/image/small-banner.png)
 
