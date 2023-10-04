@@ -2,7 +2,7 @@
 # Hi there! I'm Lu! :wave:
 ## Frontend Developer :computer: :books:
 
-![Banner Image](/image/profile-gif.gif)
+![Banner Image](/image/dark-profile-gif.gif)
 
 Since I started my career working in both front-end and back-end development, I have been building a comprehensive skill set and a passion for creating seamless user experiences. With a solid foundation in programming languages such as HTML, CSS, JavaScript, and proficiency in frameworks like React. I have successfully delivered projects that combine functionality with visually appealing designs.
 
