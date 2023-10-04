@@ -4,11 +4,7 @@
 
 ![Banner Image](/image/dark-profile-gif.gif)
 
-Since I started my career working in both front-end and back-end development, I have been building a comprehensive skill set and a passion for creating seamless user experiences. With a solid foundation in programming languages such as HTML, CSS, JavaScript, and proficiency in frameworks like React. I have successfully delivered projects that combine functionality with visually appealing designs.
-
-In front-end development, I excel at translating user requirements into intuitive interfaces, ensuring optimal usability and accessibility. My expertise in responsive design allows me to create websites and applications that seamlessly adapt to various devices and screen sizes. I am well-versed in optimizing performance and implementing best practices for SEO. I am a proactive problem-solver, always seeking innovative approaches to overcome challenges and improve efficiency.
-
-With a keen eye for detail and a commitment to staying updated with the latest industry trends and technologies, I continuously strive to enhance my skills and deliver cutting-edge solutions. I am a strong communicator and thrive in collaborative environments, where I can contribute my expertise and learn from others. Overall my experience in both front-end and back-end development, combined with my dedication to delivering exceptional results, makes me a valuable asset to any team or organization. I am excited to bring my skills and passion to new challenges and contribute to the success of future projects.
+Hi! I'm Lu, a front-end developer from Argentina. I relish when facing challenges as they allow me to learn a little more every day. Teamwork, code documentation, and accessibility are the three utmost important pillars of my work. Furthermore, I believe that I stand out for developing user interfaces that are accessible to everyone as in this ever growing world it is even more important to enable people with diverse abilities and methods to access effectively and efficiently breaking down the barriers. 
 
 
 ### :zap: Since 2021 I've been working with:
